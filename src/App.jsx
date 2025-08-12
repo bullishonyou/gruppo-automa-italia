@@ -276,7 +276,7 @@ export default function App() {
                   rel="noreferrer noopener"
                   className="inline-flex items-center gap-2 rounded-2xl bg-emerald-500 hover:bg-emerald-400 text-[#0b0e10] px-5 py-3 font-semibold shadow-[0_0_35px_rgba(16,185,129,0.35)]"
                 >
-                  Vai alla landing di Lumnia <ArrowRight className="h-5 w-5" />
+                  Scopri Lumnia <ArrowRight className="h-5 w-5" />
                 </a>
               </div>
             </div>
