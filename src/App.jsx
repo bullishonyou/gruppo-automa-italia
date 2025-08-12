@@ -101,7 +101,7 @@ export default function App() {
                   Vai al prodotto Lumnia <ArrowRight className="h-5 w-5" />
                 </a>
                 <a
-                  href="mailto:info@gruppoautoma.it?subject=Richiesta%20informazioni%20AI&body=Ciao%20Gruppo%20Automa%20Italia%2C%20vorrei%20parlare%20di%20un%20progetto%20AI."
+                  href="#contatti"
                   className="inline-flex items-center justify-center gap-2 rounded-2xl border border-emerald-400/40 text-emerald-300 hover:text-emerald-100 hover:bg-emerald-500/10 px-5 py-3 font-medium"
                 >
                   Prenota una call
@@ -276,7 +276,7 @@ export default function App() {
                   rel="noreferrer noopener"
                   className="inline-flex items-center gap-2 rounded-2xl bg-emerald-500 hover:bg-emerald-400 text-[#0b0e10] px-5 py-3 font-semibold shadow-[0_0_35px_rgba(16,185,129,0.35)]"
                 >
-                  Scopri Lumnia <ArrowRight className="h-5 w-5" />
+                  Vai alla landing di Lumnia <ArrowRight className="h-5 w-5" />
                 </a>
               </div>
             </div>
