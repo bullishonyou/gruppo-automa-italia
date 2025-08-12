@@ -1,0 +1,1 @@
+# gruppo-automa-italia
